@@ -1,8 +1,3 @@
-/*
-SENG360 A2
-JIE LIN
-V00774628
-*/
 
 import java.util.Arrays;
 import java.io.*;
