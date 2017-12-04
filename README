@@ -1,0 +1,13 @@
+Seng 360 A2
+Jie Lin 
+V00774628
+
+primary file name : AES.java
+key file name : key.txt
+input file name : plaintext.txt
+
+Compile file by : javac AES.java
+To encrypte file : java AES e key.txt plaintext.txt
+The output in file plaintext.txt.enc
+To decrypte file : java AES d key.txt plaintext.txt.enc 
+The output in file plaintext.txt.enc.dec 
