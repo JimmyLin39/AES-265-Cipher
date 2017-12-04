@@ -4,9 +4,9 @@
 - Decrypting the message by reverse the process.
 
 ## Files
-primary file name : AES.java
-key file name : key.txt
-input file name : plaintext.txt
+- primary file name : AES.java
+- key file name : key.txt
+- input file name : plaintext.txt
 
 ## Getting Started
 - Compile file by : javac AES.java
